@@ -1,0 +1,21 @@
+1. pwd
+2. mkdir foldername
+3. cd foldername
+4. mkdir foldername_1 foldername_2 foldername_3
+5. cd foldername_1
+6. touch filename1.txt filename2.txt filename3.txt filename4.json filename5.json
+7. mkdir foldername_1_1 foldername_1_2 foldername_1_3
+8. ls -la
+9. cat > filename.txt
+10. Ctrl+C
+11. cd ..
+12. mv filename.txt filename.json foldername
+13. cp filename.txt filename.txt foldername
+14. find ./filename.txt
+15. ???
+16. head -4 filename.txt
+17. tail -4 filename.txt
+18. less filename.txt
+19. date
+
+*. 1) curl http://162.55.220.72:5005
